@@ -14,7 +14,7 @@ Note - some query will take very long to run then press ctrl+c
 
 files with time will get stored in output folder
 
-final_output contains time output on my machine
+final_output contains time output on macbook pro machine
 
 ### For generate table and graphs
 
