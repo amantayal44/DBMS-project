@@ -1,0 +1,1 @@
+SELECT * FROM A  WHERE A1 <= 50;
