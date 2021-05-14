@@ -1,4 +1,4 @@
-# CS 315 Assignment
+# DBMS-project (CS315)
 Aman Tayal, 180074
 
 ## Usage:
